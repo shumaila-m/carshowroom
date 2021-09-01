@@ -1,0 +1,46 @@
+
+.logo{
+    width: 50px; 
+}
+
+.enquiry{
+    background-color:khaki;
+
+}
+
+
+
+.heading{
+    font-style:inherit;
+
+
+}
+h4{
+    font-family:fantasy;
+}
+
+
+.card{
+    border: 2px solid rgb(73, 73, 82);
+    border-radius: 10%;
+    height: 300px;
+    font-size: small;
+    font-style: italic;
+    
+
+}
+.card > img{
+
+    border-top-left-radius: 13%;
+    border-top-right-radius: 13%;
+    }
+
+    .cardimg{
+        width: 200px;
+    }
+    .back{
+        margin-left: 900px;
+    }
+    .h1{
+        font-style: initial;
+    }
